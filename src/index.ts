@@ -35,7 +35,11 @@ app.use(express.json());
 
 app.listen(PORT, () => {
 	console.log(`Listening on port ${PORT}`);
+	
 
   // Escreva aqui a sua msg para o mundo
-  
+  console.log("");
+  console.log("Desafio 1");
+  console.log("");  
+  console.log("OLÁ MUNDO, VAMOS QUEBRAR TUDO!");
 });
